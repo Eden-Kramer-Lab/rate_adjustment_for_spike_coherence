@@ -59,7 +59,7 @@ This LFP has a spectral peak at 31 Hz.
 
 
 ```python
-from src.spectral import Multitaper, Connectivity
+from spectral_connectivity import Multitaper, Connectivity
 
 m = Multitaper(lfp[..., np.newaxis], sampling_frequency, time_halfbandwidth_product=5)
 c = Connectivity.from_multitaper(m)
