@@ -1,0 +1,13 @@
+name: rate_adjustment_for_spike_coherence
+channels:
+- defaults
+- conda-forge
+- edeno
+dependencies:
+- "python>=3.6"
+- numpy
+- scikit-learn
+- matplotlib
+- spectral_connectivity
+- jupyter
+- setuptools
