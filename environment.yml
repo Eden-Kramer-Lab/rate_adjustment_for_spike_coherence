@@ -6,8 +6,7 @@ channels:
 dependencies:
 - "python>=3.6"
 - numpy
-- scikit-learn
+- statsmodels
 - matplotlib
 - spectral_connectivity
 - jupyter
-- setuptools
