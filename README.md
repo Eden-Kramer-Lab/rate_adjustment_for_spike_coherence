@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eden-Kramer-Lab/rate_adjustment_for_spike_coherence/master?filepath=https%3A%2F%2Fgithub.com%2FEden-Kramer-Lab%2Frate_adjustment_for_spike_coherence%2Fblob%2Fmaster%2Fexample%2FRate_Adjustment_for_Spike_Coherence.ipynb)
+
 # rate_adjustment_for_spike_coherence
 An implementation of the spike-rate adjustment method from Aoi et al. (2015) for comparing spike-field and spike-spike coherences.
 
